@@ -30,3 +30,4 @@ Passionate about coding, fueled by creativity and endless lines of possibilities
 ### My Links
 * [itch.io](https://cosinus215.itch.io)
 * [GitHub](https://github.com/Cosinus215)
+* [CV](https://drive.google.com/file/d/1-qkgqsGdptdkICblr2cC2kZL5qXNPEVv/view?usp=sharing)
