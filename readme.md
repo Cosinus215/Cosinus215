@@ -11,11 +11,15 @@ Passionate about coding, fueled by creativity and endless lines of possibilities
 * Unity:
   * [Allium](https://flyingoctopus.itch.io/allium) (Feb 18, 2023) ( [source](https://github.com/Cosinus215/Allium) )
   * [C.O.Ś.](https://flyingoctopus.itch.io/cos) (Aug 17, 2023) ( [source](https://github.com/Flying-Octopus-Team/COS-unity) )
-  * [LabVR](https://github.com/Studenckie-Kolo-Naukowe-ERRNO/LabVR) (Ongoing) ( [source](https://github.com/Studenckie-Kolo-Naukowe-ERRNO/LabVR) )
+  * [LabVR](https://propaganda-studios.itch.io/lab-vr) (2024) ( [source](https://github.com/Studenckie-Kolo-Naukowe-ERRNO/LabVR) )
 * Godot:
   * [Szkoła Octiego](https://flyingoctopus.itch.io/szkola-octiego) (Sep 1, 2023)
 	
 ### GameJam Games:
+* [Summoned Whiskers](https://daxpl.itch.io/summoned)
+  (Unity)
+  (Apr 16, 2024)
+  ( [source](https://github.com/DAXPL/LD55) )
 * [Another game about trams](https://daxpl.itch.io/another-game-about-trams)
   (Unity)
   (Apr 08, 2023)
