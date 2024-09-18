@@ -10,7 +10,7 @@ Passionate about coding, fueled by creativity and endless lines of possibilities
 ### My Own Games:
 * [Defend](https://cosinus215.itch.io/defend)
   (Unity)
-  (In development)
+  (Sep 18, 2024)
   ( [source](https://github.com/Cosinus215/Defend) )
 
 ### Participated In:
