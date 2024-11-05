@@ -14,7 +14,7 @@ Passionate about coding, fueled by creativity and endless lines of possibilities
   ( [source](https://github.com/Cosinus215/Defend) )
 * [Endless Run](https://cosinus215.itch.io/endless-run)
   (Unity)
-  (Nov 5, 2024)
+  (Nov 05, 2024)
   ( [source](https://github.com/Cosinus215/Endless-run) )
 
 ### Participated In:
