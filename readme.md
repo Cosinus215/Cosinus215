@@ -40,6 +40,10 @@ Passionate about coding, fueled by creativity and endless lines of possibilities
 * [Mayo Defender](https://propaganda-studios.itch.io/mayo-defender-2k22)
   (Unity)
   (Oct 29, 2022)
+	
+### Plugins (Unity):
+* [Panel Slider](https://github.com/Cosinus215/PanelSlider-Unity-Plugin)
+  (Jan 24, 2025)
 
 ### My Links
 * [itch.io](https://cosinus215.itch.io)
