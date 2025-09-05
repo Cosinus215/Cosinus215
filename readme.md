@@ -22,6 +22,7 @@ Passionate about coding, fueled by creativity and endless lines of possibilities
   * [Allium](https://flyingoctopus.itch.io/allium) (Feb 18, 2023) ( [source](https://github.com/Cosinus215/Allium) )
   * [C.O.Ś.](https://flyingoctopus.itch.io/cos) (Aug 17, 2023) ( [source](https://github.com/Flying-Octopus-Team/COS-unity) )
   * [LabVR](https://propaganda-studios.itch.io/lab-vr) (2024) ( [source](https://github.com/Studenckie-Kolo-Naukowe-ERRNO/LabVR) )
+  * XR-BINIU (2025) ( [source](https://github.com/DAXPL/XR-BINIU) )
 * Godot:
   * [Szkoła Octiego](https://flyingoctopus.itch.io/szkola-octiego) (Sep 1, 2023)
 	
