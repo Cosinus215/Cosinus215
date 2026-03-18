@@ -23,6 +23,7 @@ Passionate about coding, fueled by creativity and endless lines of possibilities
   * [C.O.Ś.](https://flyingoctopus.itch.io/cos) (Aug 17, 2023) ( [source](https://github.com/Flying-Octopus-Team/COS-unity) )
   * [LabVR](https://propaganda-studios.itch.io/lab-vr) (2024) ( [source](https://github.com/Studenckie-Kolo-Naukowe-ERRNO/LabVR) )
   * XR-BINIU (2025) ( [source](https://github.com/DAXPL/XR-BINIU) )
+  * Conjuction (2026) ( [source](https://github.com/DAXPL/Conjuction) )
 * Godot:
   * [Szkoła Octiego](https://flyingoctopus.itch.io/szkola-octiego) (Sep 1, 2023)
 	
@@ -50,4 +51,4 @@ Passionate about coding, fueled by creativity and endless lines of possibilities
 * [itch.io](https://cosinus215.itch.io)
 * [GitHub](https://github.com/Cosinus215)
 * [LinkedIn](https://www.linkedin.com/in/Cosinus215)
-* [CV](https://drive.google.com/file/d/1Lj3sGss4H3kNFOmmNNHFbaROkJdKuzcO/view?usp=sharing)
+* [CV](https://drive.google.com/file/d/1lv85yS-wG8w-zQvmAqhT-LOHNekdURXB/view?usp=sharing)
