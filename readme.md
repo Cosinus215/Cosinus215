@@ -51,4 +51,4 @@ Passionate about coding, fueled by creativity and endless lines of possibilities
 * [itch.io](https://cosinus215.itch.io)
 * [GitHub](https://github.com/Cosinus215)
 * [LinkedIn](https://www.linkedin.com/in/Cosinus215)
-* [CV](https://drive.google.com/file/d/1lv85yS-wG8w-zQvmAqhT-LOHNekdURXB/view?usp=sharing)
+* [CV](https://drive.google.com/file/d/1T4fV80dxk3Wy3IqKYICSEx6qJMSPCmJc/view?usp=sharing)
